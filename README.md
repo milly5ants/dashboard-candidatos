@@ -21,5 +21,7 @@
 - XlsxWriter
 
 ---
+## Link de acesso
 
+https://dashboard-candidatos.streamlit.app/
 
